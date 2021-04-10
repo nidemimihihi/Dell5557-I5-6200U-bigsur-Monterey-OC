@@ -10,6 +10,8 @@
 键盘  |	内置
 鼠标  |	罗技 M220
 
+已经解锁CfgLock的可以直接安装，没有解锁的，请在 Kernel->Quirks 勾选 AppleCpuCfgLock 和 AppleXcpmCfgLock
+
 ![截屏2021-04-10 14 43 22](https://user-images.githubusercontent.com/45564110/114261205-f0311b80-9a0b-11eb-8369-cd277fa743c9.png)
 ![截屏2021-04-10 14 45 25](https://user-images.githubusercontent.com/45564110/114261242-1656bb80-9a0c-11eb-9f7c-934361439670.png)
 ![截屏2021-04-10 14 45 20](https://user-images.githubusercontent.com/45564110/114261244-1b1b6f80-9a0c-11eb-9d0d-ad7ed3a6901f.png)
