@@ -38,6 +38,14 @@
 
 
 ![截屏2021-04-10 14 43 22](https://user-images.githubusercontent.com/45564110/114261205-f0311b80-9a0b-11eb-8369-cd277fa743c9.png)
-![截屏2021-06-09 12 01 34](https://user-images.githubusercontent.com/45564110/121291207-738ec080-c91a-11eb-8a7d-0131168324ba.png)
-![截屏2021-04-10 14 45 25](https://user-images.githubusercontent.com/45564110/114261242-1656bb80-9a0c-11eb-9f7c-934361439670.png)
+![截屏2021-08-26 下午7 22 00](https://user-images.githubusercontent.com/45564110/130954912-6635894e-9685-4cdd-8ea4-91d8d226ab9e.png)
+![截屏2021-08-26 下午7 22 13](https://user-images.githubusercontent.com/45564110/130954947-7835b3c7-6f73-440c-8344-0b921ec68e06.png)
+![截屏2021-08-26 下午7 22 18](https://user-images.githubusercontent.com/45564110/130954965-6035128a-f9e4-404f-951e-9f3bc29eec73.png)
+![截屏2021-08-26 下午7 22 34](https://user-images.githubusercontent.com/45564110/130954980-ba331ca5-69c4-4422-876e-cfb9de30016a.png)
+![截屏2021-08-26 下午7 22 37](https://user-images.githubusercontent.com/45564110/130954989-7e143ed8-f63f-4ae9-864a-5dafde29b599.png)
+![截屏2021-08-26 下午7 22 56](https://user-images.githubusercontent.com/45564110/130954994-8b522dd5-48a8-403b-b225-94091690e503.png)
 ![截屏2021-04-10 14 45 20](https://user-images.githubusercontent.com/45564110/114261244-1b1b6f80-9a0c-11eb-9d0d-ad7ed3a6901f.png)
+![截屏2021-08-26 下午7 21 41](https://user-images.githubusercontent.com/45564110/130955060-27574818-0768-468c-ac15-35d35ccd4364.png)
+![截屏2021-08-26 下午7 21 30](https://user-images.githubusercontent.com/45564110/130955076-7c64dd02-2a82-4ed4-9c3a-18316590388d.png)
+![截屏2021-08-26 下午7 21 15](https://user-images.githubusercontent.com/45564110/130955087-1ac091be-cf20-4e1d-b75f-50fda5a26b1f.png)
+
