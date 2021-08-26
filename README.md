@@ -19,12 +19,19 @@
 3.Mac15用0.6.8的引导。 
 
 #BIOS设置：
-General->Boot Sequence->Boot List Optiong->UEFI|
-General->Advanced Boot Options->Enable Legacy Option ROMs|
-System Configuration->SATA Operation->AHCI|
-Secure Boot->Secure Boot Enable->Disable|
-Intel@ Software Guard Extensions->Intel@ SGX Enable->Disable|
-Intel@ Software Guard Extensions->Enclave Memory Size->128MB|
+
+General->Boot Sequence->Boot List Optiong->UEFI
+  
+General->Advanced Boot Options->Enable Legacy Option ROMs
+
+System Configuration->SATA Operation->AHCI
+
+Secure Boot->Secure Boot Enable->Disable
+
+Intel@ Software Guard Extensions->Intel@ SGX Enable->Disable
+
+Intel@ Software Guard Extensions->Enclave Memory Size->128MB
+
 
 
 ![截屏2021-04-10 14 43 22](https://user-images.githubusercontent.com/45564110/114261205-f0311b80-9a0b-11eb-8369-cd277fa743c9.png)
