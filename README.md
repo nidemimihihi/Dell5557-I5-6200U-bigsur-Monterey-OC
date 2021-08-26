@@ -18,7 +18,7 @@
 
 3.Mac15用0.6.8的引导。 
 
-BIOS设置：
+#BIOS设置：
 
 General->Boot Sequence->Boot List Optiong->UEFI|
 General->Advanced Boot Options->Enable Legacy Option ROMs|
