@@ -21,6 +21,8 @@
 
 * 3.Mac15用0.6.8的引导。 
 
+* 4.独显并未驱动只是改了核显名字（好玩）。 
+
 ## BIOS设置：
 
 * General->Boot Sequence->Boot List Optiong->UEFI
