@@ -1,6 +1,6 @@
 # dell5557 
 
-##配置
+## 配置
 
 硬件  | 型号
 ---  | :--
@@ -13,7 +13,7 @@
 键盘  |	内置
 鼠标  |	罗技 M220
 
-##注意：
+## 注意：
 
 1.解锁CfgLock的可以直接安装，没有解锁的，请在 Kernel->Quirks 勾选 AppleCpuCfgLock 和 AppleXcpmCfgLock。
 
@@ -21,7 +21,7 @@
 
 3.Mac15用0.6.8的引导。 
 
-##BIOS设置：
+## BIOS设置：
 
 General->Boot Sequence->Boot List Optiong->UEFI
   
