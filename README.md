@@ -15,7 +15,7 @@
 
 ## 注意：
 
-* 1.解锁CfgLock的可以直接安装，没有解锁的，请在 Kernel->Quirks 勾选 AppleCpuCfgLock 和 AppleXcpmCfgLock。
+* 1.解锁CfgLock的可以直接安装，没有解锁的，请在 Kernel->Quirks 勾选 AppleXcpmCfgLock。
 
 * 2.BCM94360Z4 无线网卡，该网卡尺寸比网卡卡槽两边多出2mm，老版本解决方式是切边框，后续小兵会推出小尺寸版可以放下，请多多关注 BCM94360Z4 无线网卡 最新动态。
 
